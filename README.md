@@ -10,20 +10,17 @@ Antes de começar, certifique-se de ter o Node.js instalado na sua máquina. Voc
 
 Siga as etapas abaixo para executar o projeto:   
 
-1. Clone este repositório para a sua máquina:    
+### 1. Clone este repositório para a sua máquina:    
 
-   ```shell
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git```
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git   
    
-Navegue até o diretório do projeto:
+### 2. Navegue até o diretório do projeto:
 
-   ```shell
-cd nome-do-repositorio```
+   cd nome-do-repositorio   
 
-Execute o projeto:
+### 3. Execute o projeto:
 
-   ```shell
-node index.js```   
+   node index.js   
 
 ## Funcionalidades
 
