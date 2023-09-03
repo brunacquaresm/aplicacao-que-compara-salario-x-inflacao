@@ -1,6 +1,6 @@
 # Comparador de Salário Mínimo e IPCA
 
-Este é um projeto simples desenvolvido com base no curso DevMedia, que permite listar e comparar os valores do Salário Mínimo e o Índice IPCA ao longo dos anos de 2010 a 2020. O projeto utiliza JavaScript puro para realizar essa comparação.   
+Este é um projeto simples desenvolvido com base no projeto da 15ª missão do curso DevMedia, que permite listar e comparar os valores do Salário Mínimo e o Índice IPCA ao longo dos anos de 2010 a 2020. O projeto utiliza JavaScript puro para realizar essa comparação.   
 
  ![print](https://github.com/brunacquaresm/aplicacao-que-compara-salario-x-inflacao/assets/123048801/c7ef7b9e-f0ad-4263-9618-2a76389f5f8f)   
 
@@ -51,6 +51,6 @@ Este projeto está licenciado sob a MIT License - consulte o arquivo [LICENSE](L
 
 ---
 
-Este projeto foi desenvolvido com base no curso DevMedia e tem fins educacionais. Esperamos que ele seja útil para você como exemplo de como trabalhar com JavaScript e manipular dados de maneira simples. Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato.  
+Este projeto tem fins educacionais. Esperamos que ele seja útil para você como exemplo de como trabalhar com JavaScript e manipular dados de maneira simples. Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato.  
 
 Divirta-se explorando os dados do Salário Mínimo e do IPCA!
