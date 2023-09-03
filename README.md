@@ -13,17 +13,17 @@ Siga as etapas abaixo para executar o projeto:
 1. Clone este repositório para a sua máquina:    
 
    ```shell
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git     
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git     ```   
 Navegue até o diretório do projeto:
 
    ```shell
-cd nome-do-repositorio     
+cd nome-do-repositorio     ```   
 Execute o projeto:
 
    ```shell
-node index.js
+node index.js    ```   
 
-   ## Funcionalidades
+## Funcionalidades
 
 Este projeto oferece as seguintes funcionalidades:
 
