@@ -45,12 +45,6 @@ Este projeto oferece as seguintes funcionalidades:
 
 Se você quiser contribuir para este projeto, fique à vontade para abrir uma issue ou enviar um pull request.
 
-## Licença
-
-Este projeto está licenciado sob a MIT License - consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
-
----
-
 Este projeto tem fins educacionais. Esperamos que ele seja útil para você como exemplo de como trabalhar com JavaScript e manipular dados de maneira simples. Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato.  
 
 Divirta-se explorando os dados do Salário Mínimo e do IPCA!
